@@ -1,0 +1,10 @@
+variavel,descricao,tipo,subtipo
+mpg,Autonomia em milhas por galão,quantitativa,continua
+cylinders,Quantidade de cilindros,quantitativa,continua
+displacement,Volume de gás dentro do pistão ,quantitativa,continua
+horsepower,Potência do motor,quantitativa,continua
+weight,Peso do veículo,quantitativa,continua
+acceleration,Tempo de aceleração do veículo,quantitativa,continua
+model_year,Ano de fabricação,qualitativa,continua
+origin,País de origem do veículo,qualitativa,nominal
+name,Modelo do carro,qualitativa,nominal
